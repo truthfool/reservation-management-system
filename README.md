@@ -1,6 +1,18 @@
 # ReservationSystem
 
-This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/). Feel free to contact us for further questions.
+An reservation system where users/residents can log in and reserve a time to use a service such as fitness center, pool, or sauna in a hypothetical apartment complex. Each amenity will have a certain capacity (number of people that can use the service at the same time) so that people can make use of the amenities safely during the Covid-19 pandemic.
+
+Technologies
+- Spring Boot
+- Thymeleaf 
+- Hibernate 
+- Swagger 
+- Spring Security 
+- Maven 
+- JPA 
+- H2 In-Memory Database 
+- Bootstrap
+
 
 ## Development
 
